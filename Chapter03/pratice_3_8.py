@@ -1,0 +1,1 @@
+place = ['tokoyo','parise','ice land']
