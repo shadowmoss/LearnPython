@@ -1,1 +1,11 @@
 place = ['tokoyo','parise','ice land']
+print(sorted(place))
+print(sorted(place,reverse=True))
+place.reverse()
+print(place)
+place.reverse()
+print(place)
+place.sort()
+print(place)
+place.sort(reverse=True)
+print(place)
