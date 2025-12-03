@@ -1,0 +1,4 @@
+In Python I can create a List like '[reader,hope,cat,mouth]'
+In Python I can create a Set like '{car,mouth,render,set}'
+In Python I can create class like 'class Now()'
+In Python I can create a dictional like '{name:'ltx',age:16}'
